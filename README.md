@@ -10,8 +10,8 @@ Design Tools: Figma, Adobe Photoshop</br>
 Animations: GSAP</br>
 Database Management: SQL</br>
 About Me:
-I am passionate about creating beautiful and functional web applications. With a solid foundation in front-end technologies, I enjoy transforming ideas into reality through code. I am always eager to learn new skills and improve my craft.
-Current Projects:</br>
+I am passionate about creating beautiful and functional web applications. With a solid foundation in front-end technologies, I enjoy transforming ideas into reality through code. I am always eager to learn new skills and improve my craft.  </br>
+Current Projects:
 I am actively working on several web development projects that showcase my skills and creativity. Feel free to check out my repositories!</br>
 Let's Connect:</br>
 💬 I’m open to collaboration and discussions about web development.</br>
