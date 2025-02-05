@@ -1,0 +1,67 @@
+#fbox {
+    background-color: rgba(250, 235, 215, 0.384);
+    float: left;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+
+#sbox {
+
+    float: left;
+    height: 400px;
+    width: 350px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.7;
+    box-sizing: border-box;
+    border: 9px;
+    line-height: 55px;
+    margin-top: 150px;
+    padding-left: 25px;
+    font-weight: 700;
+}
+
+#bbox {
+    height: auto;
+    width: 800px;
+    margin: 300px auto;
+    box-shadow: 2px 2px 12px black;
+}
+
+#form {
+    padding-top: 70px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#number1 {
+    border-radius: 35px;
+    color: black;
+}
+
+#Username {
+    border-radius: 35px;
+    color: orange;
+}
+
+#kuchbhi {
+    height: 50px;
+    width: 98%;
+    font-size: 20px;
+    border-radius: 35px;
+}
+
+#number1 {
+    height: 50px;
+    width: 98%;
+}
+
+#Username {
+    height: 50px;
+    width: 98%;
+}
+#kuchbhi:hover{
+    background-color: black;
+    color: white;
+}
